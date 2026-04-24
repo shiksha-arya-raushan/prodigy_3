@@ -26,4 +26,4 @@ A classic, fully functional Tic-Tac-Toe game built for the web. This project dem
 
 ## 👤 Author
 - **Shiksha Arya Raushan**
--You can view the live project here:
+-You can view the live project here:https://shiksha-arya-raushan.github.io/prodigy_3/
